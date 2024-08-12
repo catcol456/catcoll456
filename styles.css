@@ -67,3 +67,17 @@ footer {
     padding: 17px;
     font-size: x-large;
 }
+
+.paypal-box {
+    background-color: #ffffff;
+    border: 0px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, .3);
+    text-align: left;
+    transition: box-shadow 0.3s;
+    scroll-padding-top: 111;
+    box-sizing: border-box;
+    padding: 17px;
+    font-size: x-large;
+}
